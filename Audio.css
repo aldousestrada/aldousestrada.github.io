@@ -1,0 +1,53 @@
+html,body
+{
+    height: 100%;
+    width: 100%;
+
+}
+.navbar-brand
+{
+    font-size: 140%;
+    font-weight: 1000;
+    padding-left: 20px;
+}
+#logo
+{
+    margin-top: -3px;
+    margin-right: 5px;
+    height: 40px;
+}
+#navbar
+{
+    padding: .8rem;   
+}
+.navbar-nav li
+{
+ padding-right: 20px;
+ font-weight: 500;
+}
+.nav-link
+{
+    font-size: 1.1em;
+}
+#audiobg
+{
+    background-color: black;
+    color: white;
+}
+#audio
+{
+    padding: 30px;
+    font-weight: 1000;
+}
+#title
+{
+    padding: 20px;
+}
+#footer a
+{
+  color: black;
+}
+#footer a:hover
+{
+  color: wheat;
+}
